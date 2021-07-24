@@ -1,4 +1,8 @@
 {
-  "fileNames": { "darwin": "macos.zip", "win32": "windows.zip" },
+  "packNames": { "darwin": "macos.zip", "win32": "windows.zip" },
+  "executableNames": {
+    "darwin": "StandaloneOSX.exe",
+    "win32": "Cell Machine Mystic Mod.exe"
+  },
   "releaseSources": ["latest_commit", "latest_tag"]
 }
